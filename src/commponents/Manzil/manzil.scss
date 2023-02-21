@@ -1,0 +1,108 @@
+.manzil-qoshishi-modal-title {
+  //   font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+
+.card {
+    display: flex !important;
+  width: 250px !important;
+}
+.card-top {
+  padding: 90px;
+  padding-bottom: 70px;
+  background-color: #01384d1a;
+  border-radius: 5px;
+}
+.slick-slider {
+  width: 250px !important;
+}
+
+.slick-dots {
+  bottom: 15px !important;
+  left: -7px;
+}
+
+.manzil-form {
+  display: flex;
+  gap: 25px;
+}
+
+.manzil-input-box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.manzil-inp {
+  width: 220px;
+  padding: 12px;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.manzil-inp-title {
+  margin-bottom: 10px;
+  // font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+.location-switch-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+textarea {
+  display: block;
+  width: 220px;
+  height: 145px;
+  resize: none !important;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.manzil-saqlash-btn {
+  padding: 14px 82px;
+  background-color: #01384d;
+  border-radius: 7px;
+  border: none;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+}
+
+.manzil-close-btn {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  padding: 10px;
+  padding-top: 8px;
+  border: none;
+  background-color: #01384d;
+}
+.manzil-open-close-btn {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding: 11px 34px;
+  background-color: #01384d;
+  border-radius: 8px;
+  border: none;
+  //   font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  color: #ffffff;
+}

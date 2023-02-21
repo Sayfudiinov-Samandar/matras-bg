@@ -1,0 +1,33 @@
+.slick-slider {
+  height: 250px;
+}
+
+.aksiya-input-sum {
+  width: 180px !important;
+  border: none !important;
+  &:focus {
+    outline: none;
+  }
+}
+
+.mahsulot-aksiya-inp-label {
+  display: flex;
+  align-items: center;
+  width: 220px;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.only-another-chackbox[type="checkbox"] {
+    accent-color:green;
+  position: relative;
+  background: #efefef;
+  width: 26px;
+  height: 26px;
+  outline: none;
+  border-radius: 30px;
+  box-shadow: inset 0px 0px 4px 1px rgba(0, 0, 0, 0.08);
+  transition: 0.5s;
+}
+

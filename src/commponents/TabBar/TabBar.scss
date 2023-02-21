@@ -1,0 +1,42 @@
+.admin-tab-bar-father{
+    display: flex;
+}
+
+.admin-tabar-box {
+  width: 220px;
+  height: 92.1vh;
+  background-color: #01384d;
+
+}
+.admin-tavbar-list{
+    list-style: none;
+    padding: 0;
+}
+.admin-tabar-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 15px 56px 15px 30px;
+    text-align: center;
+    // font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    background-color: transparent;
+  color: #ffffff;
+}
+
+
+.active{
+    background-color: #EABF9F;
+}
+.toifalar-icon{
+    transform: rotate(-90deg);
+}
+
+.admin-body-box{
+    width: 100%;
+    padding: 30px;
+}
